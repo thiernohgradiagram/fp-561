@@ -1,0 +1,8 @@
+Core Baseline Mel spectrograms
+sr = 32000
+n_fft = 1024       # 32 ms window
+hop_length = 320   # 10 ms stride
+n_mels = 128       # 0–15 kHz in 128 bands
+fmin = 300
+fmax = 15000
+
